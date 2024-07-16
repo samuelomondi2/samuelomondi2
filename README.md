@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+- 👋 Hi, I’m @samuelomondi2
+- 👀 I’m interested in developing innovative software (web, mobile, firmaware ...)
+- 🧰 I’m proficient in Python, JavaScript, React Js, React Native, MySQL (SQL), React JS, React Native ...
+- 🔧 I’m good in C++, C, Kotlin ....
+- 📫 How to reach me samuelomondi696@gmail.com 
 
 <!--
 **samuelomondi2/samuelomondi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 -->
